@@ -41,3 +41,10 @@ All Git commands for development
 5) git branch -d [branch_name] - удаление ветки из локального репозитория
 
 // git merge
+1) создать новую ветку локально
+2) поработать с ней и запушить на гитхаб
+3) переключиться на master
+4) git merge feature/main-page
+5) запушить master на гитхаб
+6) удалить ветку на гитхаб
+7) удалить ветку локально
