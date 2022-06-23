@@ -31,3 +31,8 @@ All Git commands for development
 1) git reset [file_name] - удалить некоторые файлы из stage
 2) git diff / git diff [file_name] - посмотреить какие строки кода мы изменяли
 3) git reset --hard - откат до предыдущего коммита
+
+// Ветки в Git
+1) git branch - посмотреть ветки
+2) git branch [branch_name] - создание новой ветки
+3) git checkout [branch_name] - переключение веток
