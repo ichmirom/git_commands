@@ -36,3 +36,4 @@ All Git commands for development
 1) git branch - посмотреть ветки
 2) git branch [branch_name] - создание новой ветки
 3) git checkout [branch_name] - переключение веток
+4) git pull [rep_link] [branch_name] - перенос ветки с github
